@@ -1,6 +1,6 @@
 # ocioasnio
 Instructions:
-Step 1: Open Your Computer and Browser
+Step 1: Open Your Computer and Browser (MAKE SURE ITS A PERSONAL COMPUTER AND NOT A WORK OR SCHOOL DEVICE)
 Turn on your computer and make sure it's connected to the internet.
 
 Open your web browser (like Google Chrome, Mozilla Firefox, etc.). You can find it on your computer's desktop or in the start menu.
